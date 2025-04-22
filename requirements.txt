@@ -1,0 +1,8 @@
+insightface == 0.7.3
+pillow == 11.0.0
+numpy == 2.2.0
+onnxruntime-gpu
+elasticsearch[async]==8.10.0
+fastapi 
+uvicorn
+python-multipart

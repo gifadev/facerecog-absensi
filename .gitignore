@@ -1,0 +1,7 @@
+venv3.10/
+detected_faces/*
+images/*
+models/*
+regist/*
+__pycache__/
+*.pyc
